@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monica1698
 - 👀 I’m interested in engineering and technology
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ...
 
 <!---
